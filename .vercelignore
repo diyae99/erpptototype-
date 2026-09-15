@@ -1,0 +1,15 @@
+.openai/
+.sites-runtime/
+.wrangler/
+.agents/
+.codex/
+dist/
+outputs/
+work/
+examples/
+coverage/
+*.tmp
+*.temp
+*.secret
+*.pem
+*.key
